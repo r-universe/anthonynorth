@@ -1,0 +1,20 @@
+[
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["rdeck"],
+    "from": "rdeck"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["rdeck"],
+    "from": "rdeck"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["rdeck"],
+    "from": "rdeck"
+  }
+]
