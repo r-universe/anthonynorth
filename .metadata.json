@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "package": "rdeck"
+  },
+  {
+    "package": "roxyglobals"
+  },
+  {
+    "package": "rscodeio"
+  },
+  {
+    "package": "snapbox"
+  },
+  {
+    "package": "stylebox"
+  },
+  {
+    "package": "using"
+  },
+  {
+    "package": "tidyassert"
+  }
+]
