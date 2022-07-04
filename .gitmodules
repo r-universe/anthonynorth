@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "rdeck"]
 	path = rdeck
-	url = https://github.com/anthonynorth/rdeck
+	url = https://github.com/qfes/rdeck
 	shallow = true
 	registered = true
 [submodule "roxyglobals"]
