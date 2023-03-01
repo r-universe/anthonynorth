@@ -3,6 +3,9 @@
     "package": "rdeck"
   },
   {
+    "package": "cloudview"
+  },
+  {
     "package": "roxyglobals"
   },
   {
