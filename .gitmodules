@@ -12,7 +12,6 @@
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
-	branch = v0.2.2
 [submodule "rscodeio"]
 	path = rscodeio
 	url = https://github.com/anthonynorth/rscodeio

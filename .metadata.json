@@ -4,10 +4,6 @@
     "releasetag": true
   },
   {
-    "package": "roxyglobals",
-    "releasetag": true
-  },
-  {
     "package": "rscodeio",
     "releasetag": true
   },
