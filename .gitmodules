@@ -5,24 +5,30 @@
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/qfes/rdeck
+	branch = *release
 [submodule "cloudview"]
 	path = cloudview
 	url = https://github.com/anthonynorth/cloudview
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
+	branch = *release
 [submodule "rscodeio"]
 	path = rscodeio
 	url = https://github.com/anthonynorth/rscodeio
+	branch = *release
 [submodule "snapbox"]
 	path = snapbox
 	url = https://github.com/anthonynorth/snapbox
+	branch = *release
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox
+	branch = *release
 [submodule "using"]
 	path = using
 	url = https://github.com/anthonynorth/using
+	branch = *release
 [submodule "tidyassert"]
 	path = tidyassert
 	url = https://github.com/qfes/tidyassert

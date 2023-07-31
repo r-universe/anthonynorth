@@ -1,0 +1,26 @@
+[
+  {
+    "package": "rdeck",
+    "releasetag": true
+  },
+  {
+    "package": "roxyglobals",
+    "releasetag": true
+  },
+  {
+    "package": "rscodeio",
+    "releasetag": true
+  },
+  {
+    "package": "snapbox",
+    "releasetag": true
+  },
+  {
+    "package": "stylebox",
+    "releasetag": true
+  },
+  {
+    "package": "using",
+    "releasetag": true
+  }
+]
