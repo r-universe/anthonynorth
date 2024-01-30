@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/anthonynorth/universe
+	url = https://github.com/anthonynorth/anthonynorth.r-universe.dev
 	branch = HEAD
 [submodule "cloudview"]
 	path = cloudview
