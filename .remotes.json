@@ -1,11 +1,5 @@
 [
   {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["rdeck"],
-    "from": "rdeck"
-  },
-  {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
     "via": ["rdeck"],
