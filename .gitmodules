@@ -8,7 +8,6 @@
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/qfes/rdeck
-	branch = v0.5.2
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals

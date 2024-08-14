@@ -1,9 +1,5 @@
 [
   {
-    "package": "rdeck",
-    "releasetag": true
-  },
-  {
     "package": "rscodeio",
     "releasetag": true
   },
